@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628513781989",
+    "project_id": "scheduleneuron-c1b75",
+    "storage_bucket": "scheduleneuron-c1b75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628513781989:android:d74df47b8ca3fb413fbc0c",
+        "android_client_info": {
+          "package_name": "com.scheduleneuron.schedule_neuron"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628513781989-akfng44a1lk29bmbhcrqm56d4muhpqj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoaW3mwwoms4_6tkBoX1MIVkbu3hdzuhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628513781989-akfng44a1lk29bmbhcrqm56d4muhpqj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
